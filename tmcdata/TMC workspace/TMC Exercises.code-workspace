@@ -1,0 +1,12 @@
+{"folders":[
+        {
+            "name": "Exercises",
+            "path": "Exercises"
+        }
+    ],
+    "settings": {
+        "workbench.editor.closeOnFileDelete": true,
+        "files.autoSave": "onFocusChange",
+        "java.configuration.updateBuildConfiguration": "automatic"
+    }
+}
